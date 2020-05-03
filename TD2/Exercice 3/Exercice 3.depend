@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1537952320 source:f:\cours\dut\m112\projets code block\td2\exercice 3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1537952282 source:f:\cours\dut\m112\projets code block\td2\exercice 3\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	"fonctions.h"
+
+1537951573 f:\cours\dut\m112\projets code block\td2\exercice 3\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+
